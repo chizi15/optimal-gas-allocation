@@ -1,1 +1,1 @@
-# opt_gas_distribution
+# optimal gas allocation
